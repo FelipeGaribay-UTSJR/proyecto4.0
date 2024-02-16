@@ -11,6 +11,7 @@ export default function Home() {
         <body>
           <div style={{ textAlign: 'center' }}>
             <title style={{ display: 'block' }}>Hola Soy Felipe</title>
+            <h1>Soy Felipe</h1>
           </div>
         </body>
       </div>
