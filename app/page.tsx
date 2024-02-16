@@ -10,9 +10,6 @@ export default function Home() {
         </nav>
         <div className={styles.center}>
           <h1 className="text-4xl font-bold mb-8">Soy Felipe</h1>
-          <button className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded">
-            Iniciar Sesión
-          </button>
         </div>
       </div>
     </main>
