@@ -8,8 +8,12 @@ export default function Home() {
           <a href="#">Home</a>
           <a href="#">Acerca</a>
         </nav>
+        <body>
+          <div style={{ textAlign: 'center' }}>
+            <title style={{ display: 'block' }}>Hola Soy Felipe</title>
+          </div>
+        </body>
       </div>
-      
     </main>
   );
 }
